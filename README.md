@@ -7,8 +7,8 @@ The project investigates motor learning deficits and adaptation strategies in zQ
 
 The raw data is available at FRDR and is structured as follows:
 
-    Each file represents one mouse, containing its lever-pulling data in a cell array format.
-    The data includes trial information, lever positions, task success rates, and other behavioral metrics.
+- Each file represents one mouse, containing its lever-pulling data in a cell array format.
+- The data includes trial information, lever positions, task success rates, and other behavioral metrics.
 
 # Scripts
 
