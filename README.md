@@ -32,13 +32,13 @@ This repository contains the following MATLAB scripts:
 
 # How to Use
 
-    Download the Data: Download the mouse data from the FRDR repository (link provided below). Ensure that each file is placed in a directory corresponding to its mouse ID.
+- Download the Data: Download the mouse data from the FRDR repository (link provided below). Ensure that each file is placed in a directory corresponding to its mouse ID.
 
-    Run Preprocessing: Use data_cleaning.m and format_data.m to preprocess the raw data and structure it for analysis.
+- Run Preprocessing: Use data_cleaning.m and format_data.m to preprocess the raw data and structure it for analysis.
 
-    Perform Analysis: After preprocessing, run the analysis scripts such as group_analysis.m or multilevel_modeling.m to analyze the motor learning data.
+- Perform Analysis: After preprocessing, run the analysis scripts such as group_analysis.m or multilevel_modeling.m to analyze the motor learning data.
 
-    Visualize Results: Use plot_performance.m to visualize learning curves, hold time distributions, and other key results.
+- Visualize Results: Use plot_performance.m to visualize learning curves, hold time distributions, and other key results.
 
 Data Access
 
