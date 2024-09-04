@@ -15,17 +15,20 @@ The raw data is available at FRDR and is structured as follows:
 This repository contains the following MATLAB scripts:
 
 - Preprocessing Scripts:
+
         data_cleaning.m: Cleans the raw data, removing incomplete or erroneous trials.
         format_data.m: Converts raw data into a structured format for further analysis.
         extract_metrics.m: Extracts relevant metrics like hold times, success rates, and trial durations from each mouse's data.
 
   - Analysis Scripts:
+
         group_analysis.m: Performs group-level statistical analysis, comparing motor learning metrics between genotypes (WT vs. zQ175).
         plot_performance.m: Generates plots visualizing the progression of motor learning, including hold time distributions and success rates over time.
         multilevel_modeling.m: Runs multilevel models to examine the effects of genotype, time, and cage on learning performance.
         correlation_analysis.m: Computes correlations between different behavioral metrics and trial performance.
 
   - Helper Functions:
+ 
         calculate_hold_time.m: Calculates the hold time for each trial based on lever position.
         plot_helper.m: Utility functions for generating custom plots used in the analysis scripts.
         stat_summary.m: Summarizes the statistical outputs from various analysis scripts.
