@@ -40,17 +40,17 @@ This repository contains the following MATLAB scripts:
 
 - Visualize Results: Use plot_performance.m to visualize learning curves, hold time distributions, and other key results.
 
-Data Access
+# Data Access
 
 The raw data files can be accessed at the FRDR repository:
 [(https://doi.org/10.20383/103.0869)]
-Requirements
+# Requirements
 
     MATLAB R2021a or later
     Statistics and Machine Learning Toolbox (for some advanced analyses)
     Plotting libraries (MATLAB built-in)
 
-Contact
+# Contact
 
 For questions or issues related to the analysis scripts or the project, please contact:
 
@@ -58,6 +58,6 @@ For questions or issues related to the analysis scripts or the project, please c
     University of British Columbia
     daniel(dot)ramandi <at> alumni.ubc.ca
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
