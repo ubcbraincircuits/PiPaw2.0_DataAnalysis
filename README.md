@@ -45,7 +45,7 @@ This repository contains the following MATLAB scripts:
 
 # Data Access
 
-The raw data files can be accessed at the FRDR repository:
+The raw and preprocessed data files can be accessed at the FRDR repository:
 [(https://doi.org/10.20383/103.0869)]
 # Requirements
 
