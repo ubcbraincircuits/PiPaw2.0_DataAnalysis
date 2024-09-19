@@ -15,10 +15,8 @@ The raw data is available at FRDR and is structured as follows:
 This repository contains the following MATLAB scripts:
 
 - Preprocessing Scripts:
-
-        data_cleaning.m: Cleans the raw data, removing incomplete or erroneous trials.
-        format_data.m: Converts raw data into a structured format for further analysis.
-        extract_metrics.m: Extracts relevant metrics like hold times, success rates, and trial durations from each mouse's data.
+- - `dataset_generation.m`: Cleans the raw data, removing incomplete or erroneous trials. Converts raw data into a structured format for further analysis.
+- - `piPaw_Ent_Perf_Analysis.m` and `piPaw_data_analysis.m`: Extracts relevant metrics like hold times, success rates, and trial durations from each mouse's data.
 
 - Analysis Scripts:
 
